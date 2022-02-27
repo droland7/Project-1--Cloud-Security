@@ -8,7 +8,7 @@ Images/Diagram_ELK_Stack_Network.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
-  -Images/Ansible
+  -Ansible-Playbook-Yaml, Filebeat-Playbook-Yaml, Metricbeat-Playbook-Yaml
 
 This document contains the following details:
 - Description of the Topology
