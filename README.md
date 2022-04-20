@@ -4,7 +4,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-Images/Diagram_ELK_Stack_Network.png
+https://github.com/droland7/Project-1--Cloud-Security/blob/main/Diagrams/Diagram_ELK_Stack_Network.png
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -72,7 +72,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-Images/ELK_Docker_PS_Output.png
+https://github.com/droland7/Project-1--Cloud-Security/blob/main/Diagrams/ELK_Docker_PS_Output.png
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
