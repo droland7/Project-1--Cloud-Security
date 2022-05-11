@@ -93,4 +93,4 @@ In order to use the playbooks, you will need to have an Ansible control node alr
 SSH into the control node and follow the steps below:
 - Copy the filebeat-playbook.yml and metricbeat-playbook.yml files to /etc/ansible/roles.
 - Update the /etc/ansible/hosts file to include the IP addresses of the virtual machaines under the webservers section.
-- Run  the  playbooks and go to http://104.43.167.199:5601/app/kibana to checked that the installation worked as expected.
+- Run  the  playbooks and go to http://104.43.167.199:5601/app/kibana to check that the installation worked as expected.
